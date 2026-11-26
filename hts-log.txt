@@ -1,0 +1,21 @@
+HTTrack3.51-0 launched on Thu, 26 Nov 2026 21:36:34 at https://enim-team-tunisia.vercel.app/?fbclid=IwY2xjawUSRpxwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMVdId3g2Y09uRkFpVXR0NkhzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe_yJl3mtitdZuRRz71pSyXGUGhTHl-zlRX9HcdrGKBN-cWD5A6ROXT9dfdio_aem_bxE_vEJ2seo0T8p9kUsqqQ +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack/3.x; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "fr, en, *" https://enim-team-tunisia.vercel.app/?fbclid=IwY2xjawUSRpxwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMVdId3g2Y09uRkFpVXR0NkhzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe_yJl3mtitdZuRRz71pSyXGUGhTHl-zlRX9HcdrGKBN-cWD5A6ROXT9dfdio_aem_bxE_vEJ2seo0T8p9kUsqqQ -O1 "C:\My Web Sites\html css js" +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:41:22	Error: 	"Not Found" (404) at link https://enim-team-tunisia.vercel.app/icon.svg (from https://enim-team-tunisia.vercel.app/?fbclid=IwY2xjawUSRpxwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMVdId3g2Y09uRkFpVXR0NkhzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe_yJl3mtitdZuRRz71pSyXGUGhTHl-zlRX9HcdrGKBN-cWD5A6ROXT9dfdio_aem_bxE_vEJ2seo0T8p9kUsqqQ)
+21:41:22	Warning: 	Permanent Redirect for https://enim-team-tunisia.vercel.app/ROOT/node_modules/.pnpm/next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/process/
+21:41:22	Warning: 	File has moved from https://enim-team-tunisia.vercel.app/ROOT/node_modules/.pnpm/next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/process/ to /ROOT/node_modules/.pnpm/next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/process
+21:41:23	Warning: 	Permanent Redirect for https://enim-team-tunisia.vercel.app/_next/
+21:41:23	Warning: 	File has moved from https://enim-team-tunisia.vercel.app/_next/ to /_next
+21:41:23	Error: 	"Not Found" (404) at link https://enim-team-tunisia.vercel.app/static/chunks/01s_fiv-op96x.js (from https://enim-team-tunisia.vercel.app/_next/static/chunks/turbopack-0tkvwj.xs0q7e.js)
+21:41:23	Error: 	"Not Found" (404) at link https://enim-team-tunisia.vercel.app/static/chunks/03ix723bt4v2k.js (from https://enim-team-tunisia.vercel.app/_next/static/chunks/turbopack-0tkvwj.xs0q7e.js)
+21:41:24	Error: 	"Not Found" (404) at link https://enim-team-tunisia.vercel.app/ROOT/node_modules/.pnpm/next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/process (from https://enim-team-tunisia.vercel.app/ROOT/node_modules/.pnpm/next@16.2.0_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/process/)
+21:41:24	Error: 	"Not Found" (404) at link https://enim-team-tunisia.vercel.app/_next (from https://enim-team-tunisia.vercel.app/_next/)
+21:41:24	Error: 	"Not Found" (404) at link https://enim-team-tunisia.vercel.app/_next-live/feedback/feedback.html?dpl=dpl_EZeNtWDFERPJ48JYyE6r8wqp72TG (from https://vercel.live/_next-live/feedback/feedback.js)
+
+HTTrack Website Copier/3.51-0 mirror complete in 4 minutes 50 seconds : 59 links scanned, 50 files written (137811439 bytes overall) [137063055 bytes received at 472631 bytes/sec], 1179721 bytes transferred using HTTP compression in 20 files, ratio 28%
+(6 errors, 4 warnings, 0 messages)
